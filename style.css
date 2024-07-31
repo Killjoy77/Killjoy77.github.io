@@ -1,0 +1,36 @@
+*{
+    font-family:"Edu AU VIC WA NT Hand", cursive;;
+}
+header{
+    background-color:#706C61;
+}
+header span{
+    color:#E1F4F3 ;
+}    
+.nav-item a{
+    color: #FFFFFF;
+}
+/* Para link visitado */
+.nav-item a:visited{
+    color:#FFFFFF ;
+}
+.nav-item a:hover{
+    color:#B5C18E ;
+}
+
+#nav-butoon{
+    background-color: #C7B7A3;
+}
+.icon-square .bi{
+    background-color: #BB9AB1;
+    width: 40px;
+    height: 52px;
+    border-radius: 50px;
+    font-size: 1.5em;
+    text-align: center;
+}
+.img-proyecto1{
+    background-image: url(assets/I2.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
